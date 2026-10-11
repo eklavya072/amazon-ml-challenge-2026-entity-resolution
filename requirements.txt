@@ -1,0 +1,11 @@
+# Python 3.13.9 (miniconda). Pinned versions used to produce the submission.
+polars==1.43.2
+numpy==2.3.3
+pyarrow==24.0.0
+lightgbm==4.6.0
+scikit-learn==1.7.2
+rapidfuzz==3.14.6
+anyascii==0.3.3
+# GPU steps (cross-encoder fine-tuning / scoring; we ran them as Kaggle notebooks)
+torch==2.9.0
+transformers==5.14.1

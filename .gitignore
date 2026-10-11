@@ -1,0 +1,12 @@
+# challenge data and generated files (not redistributable / too large)
+Dataset/
+work/
+output/
+*.parquet
+*.tsv
+*.zip
+
+# python / os
+__pycache__/
+*.pyc
+.DS_Store
